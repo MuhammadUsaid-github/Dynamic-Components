@@ -1,0 +1,20 @@
+/* Select Component Styling */
+.select-container {
+    margin-bottom: 20px;
+  }
+  
+  .select-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #333;
+  }
+  .select{
+    width: 170px;
+    height: 50px;
+    border-radius: 10px;
+    border: 5px solid #453e3e ;
+  }
+  

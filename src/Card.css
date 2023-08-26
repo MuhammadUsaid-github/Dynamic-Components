@@ -1,0 +1,22 @@
+
+.card {
+    border: 5px solid #453e3e;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    width: 320px;
+    height: 200px;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+  }
+  
+  .div{
+    display: flex;
+    justify-content: space-between;
+
+  }

@@ -1,0 +1,28 @@
+
+.input-container {
+    margin-bottom: 20px;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #333;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .input-field:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+  }
+  
+  .input{
+    width: 180px;
+    height:30px;
+    border-radius: 10px;
+    /* color:#453e3e ; */
+    border: 4px solid #453e3e;
+  }
